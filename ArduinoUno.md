@@ -1,6 +1,6 @@
 ## Arduino Uno 
 
-The Arduino Uno connector is a standardised connector in Mbed, which has a set amount of exposed functionality. To achieve meaningful portability of application code across various Mbed enabled boards that are Arduino Uno compliant, the pin names used for the connector pins are common across these boards.
+The Arduino Uno connector is a standardised connector in Mbed, which has a set amount of exposed functionality. To achieve meaningful portability of application code across various Mbed boards that are Arduino Uno compliant, the pin names used for the connector pins are common across these boards.
 
 The following diagram shows the Arduino Uno standard for Mbed boards:
 ![Static pinmap model](https://raw.githubusercontent.com/ARMmbed/mbed-os/feature-std-pin-name/docs/design-documents/hal/img/Arduino_Uno_Mbed.png) 
